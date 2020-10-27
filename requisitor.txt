@@ -2,3 +2,4 @@ gerar combinações de numeros aleatorios
 6 numeros por sequncia
 intervalo de 1 a 60
 numeros não podem se repetir
+1000 numeros por vez
