@@ -3,3 +3,11 @@ gerar combinações de numeros aleatorios
 intervalo de 1 a 60
 numeros não podem se repetir
 1000 numeros por vez
+sitema de cadastro de cliente
+    nome
+    email
+    senha
+    cpf
+    numeros escolhicos
+enviar os numeros que vao concorrer
+    via email
