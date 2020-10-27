@@ -1,13 +1,21 @@
-gerar combinações de numeros aleatorios
-6 numeros por sequncia
-intervalo de 1 a 60
-numeros não podem se repetir
-1000 numeros por vez
+sistema que guarde os numeros
+    recebe os numeros que os clientes informarem
+    verifica se o numero já existe
 sitema de cadastro de cliente
     nome
     email
     senha
     cpf
+    telefone
     numeros escolhicos
 enviar os numeros que vao concorrer
-    via email
+    via email todos os numeros que esoa no bolao
+o numero escolhido por um cliente naõ pode ser escolhido por outro
+gerar numero aleatrio para quem não tem numero pronto
+rodar em:
+    web: desktop/mobile
+    desktop
+banco de dados:
+    mysql
+
+
