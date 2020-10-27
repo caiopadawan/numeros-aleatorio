@@ -1,3 +1,5 @@
+a divisão do valor será por cotas
+termos de uso
 sistema que guarde os numeros
     recebe os numeros que os clientes informarem
     verifica se o numero já existe
@@ -8,14 +10,17 @@ sitema de cadastro de cliente
     cpf
     telefone
     numeros escolhicos
+    numero da conta
 enviar os numeros que vao concorrer
     via email todos os numeros que esoa no bolao
-o numero escolhido por um cliente naõ pode ser escolhido por outro
-gerar numero aleatrio para quem não tem numero pronto
 rodar em:
     web: desktop/mobile
     desktop
 banco de dados:
     mysql
-
-
+acompanhar apostas diretamente do site oficial da caixa
+    valor do prêmio
+    numeros sorteados
+    se ja foi sorteado
+    data de sorteio
+oonetização se pelo valor da aposta
